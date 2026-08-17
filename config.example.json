@@ -1,0 +1,29 @@
+{
+  "pandascore": {
+    "token": "YOUR_PANDASCORE_TOKEN"
+  },
+
+  "twitch": {
+    "script_path": "YOUR_PATH_TO_TWITCH_AUTOJOINER.PY"
+  },
+
+  "schedule": {
+    "start_early_minutes": 60,
+    "timezone": "YOUR_TIMEZONE"
+  },
+
+  "events": {
+    "keywords": [
+        "major",
+        "six invitational",
+        "north america league",
+        "europe mena league",
+        "south america league",
+        "asia pacific league",
+        "cn league",
+        "regional finals",
+        "regional final",
+        "esports world cup"
+    ]
+  }
+}
